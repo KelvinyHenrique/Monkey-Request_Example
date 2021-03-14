@@ -63,10 +63,10 @@ C:/SpaceMonkeys/newrequest/build/esp-idf/freemodbus/libfreemodbus.a
 C:/SpaceMonkeys/newrequest/build/esp-idf/jsmn/libjsmn.a
 C:/SpaceMonkeys/newrequest/build/esp-idf/json/libjson.a
 C:/SpaceMonkeys/newrequest/build/esp-idf/libsodium/liblibsodium.a
+C:/SpaceMonkeys/newrequest/build/esp-idf/protocol_examples_common/libprotocol_examples_common.a
+C:/SpaceMonkeys/newrequest/build/esp-idf/mkrequests/libmkrequests.a
 C:/SpaceMonkeys/newrequest/build/esp-idf/mqtt/libmqtt.a
 C:/SpaceMonkeys/newrequest/build/esp-idf/openssl/libopenssl.a
-C:/SpaceMonkeys/newrequest/build/esp-idf/protocol_examples_common/libprotocol_examples_common.a
-C:/SpaceMonkeys/newrequest/build/esp-idf/requests/librequests.a
 C:/SpaceMonkeys/newrequest/build/esp-idf/spiffs/libspiffs.a
 C:/SpaceMonkeys/newrequest/build/esp-idf/ulp/libulp.a
 C:/SpaceMonkeys/newrequest/build/esp-idf/wifi_provisioning/libwifi_provisioning.a
