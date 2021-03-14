@@ -1,0 +1,5 @@
+source "C:/Users/kelvi/esp/components/efuse/Kconfig"
+source "C:/Users/kelvi/esp/components/esp32/Kconfig"
+source "C:/Users/kelvi/esp/components/esp_common/Kconfig"
+source "C:/Users/kelvi/esp/components/log/Kconfig"
+source "C:/Users/kelvi/esp/components/spi_flash/Kconfig"
